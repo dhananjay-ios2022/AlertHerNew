@@ -1,0 +1,2 @@
+/Users/administrator/Documents/AlertHer/android/app/.cxx/Debug/u712872m/x86/CMakeFiles/edit_cache.dir
+/Users/administrator/Documents/AlertHer/android/app/.cxx/Debug/u712872m/x86/CMakeFiles/rebuild_cache.dir

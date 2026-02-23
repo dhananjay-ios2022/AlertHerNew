@@ -1,0 +1,2 @@
+/Users/administrator/Documents/AlertHer/android/app/.cxx/RelWithDebInfo/g285v3k5/x86_64/CMakeFiles/edit_cache.dir
+/Users/administrator/Documents/AlertHer/android/app/.cxx/RelWithDebInfo/g285v3k5/x86_64/CMakeFiles/rebuild_cache.dir

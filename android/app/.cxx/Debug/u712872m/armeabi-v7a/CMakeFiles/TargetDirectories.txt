@@ -1,0 +1,2 @@
+/Users/administrator/Documents/AlertHer/android/app/.cxx/Debug/u712872m/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/administrator/Documents/AlertHer/android/app/.cxx/Debug/u712872m/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325617433588",
+    "project_id": "alerther-36562",
+    "storage_bucket": "alerther-36562.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325617433588:android:3ab4c34346f9d68d5857a1",
+        "android_client_info": {
+          "package_name": "com.app.alerther"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvc9plCvGulsDEW8fPvjGF01A6ckN1Dt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
